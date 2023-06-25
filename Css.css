@@ -1,0 +1,40 @@
+#image{
+    border-radius: 50%;
+    margin: 0;
+}
+.Skills{
+  text-align: center;  
+}
+.list{
+    margin-top: 20px;
+    list-style: none;
+    
+}
+#peace{
+    margin-top: 150px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-template-columns: 3;
+    grid-template-rows: 1;
+    gap: 2em;
+}
+
+.hr {
+    border: dotted #080808 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.new{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+
